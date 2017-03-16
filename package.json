@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mill-gulp-utils": "^1.0.0"
+  }
+}
